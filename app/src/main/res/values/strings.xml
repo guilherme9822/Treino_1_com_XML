@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Treino_1</string>
+    <string name="login">LOGIN</string>
+    <string name="senha">Senha</string>
+    <string name="email">Email</string>
+    <string name="naoconta">Ainda não é cadastrado?Cadastre-se!</string>
+    <string name="cappuccino">Cappuccino</string>
+    <string name="time">15 minutos</string>
+    <string name="favorite">54214</string>
+    <string name="texto">Uma simples e perfeitamente extraida dose
+        de espresso misturado com leite fresco e
+        chocolate fazem esta bebida deliciosa.</string>
+    <string name="textespresso">1 dose espresso</string>
+    <string name="textleite">100ml leite</string>
+    <string name="textecolher">1 colher de chocolate em pó</string>
+</resources>
